@@ -13,9 +13,16 @@ Silvia Gutiérrez De la Torre estudió la maestría de Humanidades Digitales en 
 ### Vínculos importantes
 
 #### Voyant Tools
-:wrench: Voyant Tools en línea: [voyant-tools.org](https://voyant-tools.org/)
 
-:computer: [Descargar la última versión de Voyant Tools Server](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) (:warning:aunque me ha dado algunos problemas en Windows) | :white_check_mark: alternativo [Descargar la versión más estable del Voyant Tools Server](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M28)
+:wrench: En línea
+
+* Página principal Voyant Tools: [voyant-tools.org](https://voyant-tools.org/)
+* [Espejos, páginas alternativas](https://voyant-tools.org/docs/#!/guide/mirrors)
+
+:computer: Local
+
+* [Descargar la última versión de Voyant Tools Server (M45)](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) (:warning:aunque me ha dado algunos problemas en Windows)
+* :white_check_mark: Alternativo: [descargar la versión más estable del Voyant Tools Server (M28)](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M28)
 
 #### Corpus
 
