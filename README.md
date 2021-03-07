@@ -42,6 +42,9 @@ Para esta lección podrás usar una colección de textos que fue "parseada" a pa
   * El libro _Hermeneutica: Computer-Assisted Interpretation in the Humanities_ (MIT Press, 2016), el cual contiene cuatro [capítulos interactivos](http://hermeneuti.ca/) que demuestran las posibilidades de analizar un corpus con la ayuda de VT.
 * La [documentación de VT](https://voyant-tools.org/docs/#!/guide/start) es muy útil también para comprender mejor cada una de las herramientas ofrecidas por este software aunque no está tan actualizada
 
+#### Un vistazo al entorno de trabajo en Voyant Tools
+
+<img src="voyant-tools.png" alt= "el entorno de trabajo en voyant tools"/>
 
 ## Bloque 2: Visualización de datos abiertos con Python >> Pandas >> Dash - Jairo Melo
 
@@ -88,3 +91,7 @@ Este conjunto de datos contiene los principales indicadores de los niveles prees
 * McKinney, Wes. *Python for data analysis: data wrangling with pandas, NumPy, and IPython*. Second edition, O’Reilly Media, Inc, 2018.
 * Pajankar, Ashwin. *Practical Python Data Visualization: A Fast Track Approach to Learning Data Visualization with Python*. 2021.
 * Stepanek, y Suresh John. *Thinking in Pandas*. Apress, 2020. Open WorldCat, https://link.springer.com/10.1007/978-1-4842-5839-2.
+
+#### Un vistazo a una de las visualizaciones que generaremos
+
+<img src="cobertura-educacion.png" alt= "gráfico de barras sobre la cobertura en educación en colombia"/>
