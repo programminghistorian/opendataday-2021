@@ -1,7 +1,7 @@
 # Día de los Datos Abiertos 2021
 Repositorio con los materiales del evento "Datos Abiertos y Humanidades Digitales" realizado en el marco de la celebración del Día de los Datos Abiertos 2021. Este evento fue organizado por el equipo editorial de [Programming Historian en Español](https://programminghistorian.org/es/equipo-de-proyecto#programming-historian-en-espa%C3%B1ol) y recibió el apoyo de la [Open Knowledge Foundation](https://blog.okfn.org/2021/02/12/meet-the-organisations-receiving-open-data-day-2021-mini-grants/). 
 
-<img src="open-data-day-2021.png" width="400"/>
+<img src="open-data-day-2021.png" alt= "imagen promocional del evento" width="400"/>
 
 ## Bloque 1: Análisis de textos con Voyant Tools - Silvia Gutiérrez
 
