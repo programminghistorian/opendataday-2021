@@ -50,6 +50,9 @@ Para esta lección podrás usar una colección de textos que fue "parseada" a pa
 
 📺 En este enlace encontrarás [el registro del evento](https://puc.zoom.us/rec/share/5tJm4_rjMBHmZ7GdNW4L0g_6rSgTLkqKdt-l19Dg1keRIlkOximbo023guCQ3ECg.LEkxoKLdubMF6YWB?startTime=1615051517000) (faltan los primeros 7 minutos)
 
+<img src="registro-voyant-tools.png" alt= "captura de video del taller"/>
+
+
 ## Bloque 2: Visualización de datos abiertos con Python >> Pandas >> Dash - Jairo Melo
 
 En este taller aprenderemos a descargar, procesar y visualizar datos abiertos con Python, Pandas y Dash. Utilizaremos la herramienta Jupyter Notebook para hacer los ejercicios, por lo que no es necesario realizar instalaciones de software. No importa si no cuentas con conocimientos previos en lenguajes de programación o bases de datos: en el taller aprenderemos algunas estrategias sencillas para hacer tareas complejas con datos abiertos en Python. 
@@ -103,4 +106,7 @@ Este conjunto de datos contiene los principales indicadores de los niveles prees
 ### Video del taller
 
 📺 En este enlace encontrarás [el registro del evento](https://puc.zoom.us/rec/share/Ez1zMsu6Ym88Ban8Hej1kacm2xkzA2Dzq2mAWB8KjywC0jk2VJH1arTYXwpzpnRJ.elBwkEDS-9G6vhCz?startTime=1615064717000)
+
+<img src="registro-python.png" alt= "captura de video del taller"/>
+
 
